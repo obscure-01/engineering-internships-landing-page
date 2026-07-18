@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/favicon.svg" alt="Engineering Internships Landing Page Logo" width="120"/>
+<img src="assets/favicon.svg" alt="Engineering Internships Landing Page Logo" width="80"/>
 
 # Engineering Internships Landing Page
 
